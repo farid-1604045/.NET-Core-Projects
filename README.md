@@ -1,14 +1,20 @@
-# **Project Name**
+# OrgEmployeeManager
 
 ## Overview
-A .NET Core Web API that provides endpoints for [Company, Employees of company] following RESTful principles.
+**OrgEmployeeManager** is a .NET Core Web API that provides RESTful endpoints for managing companies and their employees. The API is designed to be scalable, secure, and easy to integrate with client applications.
 
 ## Features
-- RESTful API
-- CORS enabled
-- NLog integration (or your logging solution)
-- JWT Authentication (if applicable)
+- ✅ RESTful API design
+- 🌐 CORS enabled for cross-origin requests
+- 📝 Integrated with NLog (or your preferred logging solution)
+- 🔐 JWT-based authentication (if applicable)
 
-## Technologies
-- .NET Core 5
+## Technologies Used
+- .NET 5
 - ASP.NET Core Web API
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/OrgEmployeeManager.git
